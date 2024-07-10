@@ -1,4 +1,5 @@
 Here is my final Diabetes Prediction Project .Demonstration is shown below 
+I have deployed it on render.Render link - https://diabetes-prediction-project-1.onrender.com/
 
 
 
